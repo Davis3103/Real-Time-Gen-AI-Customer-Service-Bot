@@ -1,0 +1,27 @@
+[
+  {
+    "id": "faq_1",
+    "title": "Support Hours",
+    "content": "Our customer support team is available 24/7 for urgent issues and 9 AM to 7 PM for standard support."
+  },
+  {
+    "id": "faq_2",
+    "title": "Refund Policy",
+    "content": "Refund requests are reviewed within 3 to 5 business days after submission and depend on eligibility."
+  },
+  {
+    "id": "faq_3",
+    "title": "Account Help",
+    "content": "If you cannot log in, reset your password from the login page or contact support for account recovery."
+  },
+  {
+    "id": "faq_4",
+    "title": "Order Status",
+    "content": "You can check order status from your dashboard or tracking link shared by email or SMS."
+  },
+  {
+    "id": "faq_5",
+    "title": "Escalation",
+    "content": "Complex complaints are escalated to a senior agent with a priority response timeline."
+  }
+]

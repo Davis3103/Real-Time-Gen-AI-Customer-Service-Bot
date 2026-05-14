@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Attention Is All You Need",
+    "abstract": "The paper introduces the Transformer architecture, replacing recurrence with attention mechanisms for sequence modeling."
+  },
+  {
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "abstract": "This paper proposes BERT, a bidirectional language representation model based on masked language modeling."
+  },
+  {
+    "title": "Generative AI for Customer Service",
+    "abstract": "Generative AI can automate support, summarize tickets, and improve response personalization in service systems."
+  },
+  {
+    "title": "Retrieval-Augmented Generation",
+    "abstract": "RAG combines retrieval over external knowledge with generation to improve factual grounding."
+  }
+]
